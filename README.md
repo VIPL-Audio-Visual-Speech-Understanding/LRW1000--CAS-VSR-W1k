@@ -52,7 +52,3 @@ If this repository was useful for your research, please cite our work:
 [Learn an Effective Lip Reading Model without Pains (Strong Recommended)](https://github.com/Fengdalu/learn-an-effective-lip-reading-model-without-pains) 
 
 [LipNet-PyTorch (The state-of-the-art PyTorch Version)](https://github.com/Fengdalu/LipNet-PyTorch) 
-
-[End-to-end-lipreading](https://github.com/mpc001/end-to-end-lipreading)
-
-[Lipreading using Temporal Convolutional Networks](https://github.com/mpc001/Lipreading_using_Temporal_Convolutional_Networks)
