@@ -1,15 +1,11 @@
-# Lipreading-DenseNet3D
-DenseNet3D Model In "DenseNet3D Model In "LRW-1000: A Naturally-Distributed Large-Scale Benchmark for Lip Reading in the Wild", https://arxiv.org/abs/1810.06990
+# LRW1000 (CAS-VSR-W1k)
+This repo provides the link of the data and the code of DenseNet3D Model in [LRW-1000: A Naturally-Distributed Large-Scale Benchmark for Lip Reading in the Wild](https://arxiv.org/pdf/1810.06990.pdf). Our paper can be found [here](https://arxiv.org/pdf/1810.06990.pdf).
 
 ![Sample of the proposed LRW-1000](banner.png)
 
 ## Update
 
-`2020-12-10`: Please check https://github.com/Fengdalu/learn-an-effective-lip-reading-model-without-pains for our base models, which provides more detailed configuration on LRW and LRW-1000.
-
-## Introduction   
-
-This respository is implementation of the proposed DenseNet-3D network in [LRW-1000: A Naturally-Distributed Large-Scale Benchmark for Lip Reading in the Wild](https://arxiv.org/pdf/1810.06990.pdf). Our paper can be found [here](https://arxiv.org/pdf/1810.06990.pdf).
+Please check https://github.com/Fengdalu/learn-an-effective-lip-reading-model-without-pains for our base models, which provides more detailed configuration on LRW and LRW-1000.
 
 ## Data Preparation
 
