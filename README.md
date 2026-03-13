@@ -5,7 +5,7 @@ This repo provides the link of the data and the code of DenseNet3D Model in [LRW
 
 ## Data Preparation
 
-Download [LRW1000 Dataset]([https://vipl.ict.ac.cn/resources/databases/201810/t20181017_32714.html]) and place `LRW1000_Public` in the root of this repository. Instead, you can create symbolic links to this project: 
+Download [LRW1000 Dataset](https://vipl.ict.ac.cn/resources/databases/201810/t20181017_32714.html) and place `LRW1000_Public` in the root of this repository. Instead, you can create symbolic links to this project: 
 
 ```
 ln -s LRW1000_Public Lipreading-DenseNet3D/LRW1000_Public
