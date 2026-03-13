@@ -48,8 +48,13 @@ If this repository was useful for your research, please cite our work:
 ## Related Projects
 
 [Another implmentation Of DenseNet-3D](https://github.com/NirHeaven/D3D)
+
 [Learn an Effective Lip Reading Model without Pains (Strong Recommended)](https://github.com/Fengdalu/learn-an-effective-lip-reading-model-without-pains) 
+
 [LipNet-PyTorch (The state-of-the-art PyTorch Version)](https://github.com/Fengdalu/LipNet-PyTorch) 
+
 [CAS-VSR-S68: A sentence-level audio-visual speech dataset for speaker-adaptive lip-reading](https://github.com/VIPL-Audio-Visual-Speech-Understanding/CAS-VSR-S68)
+
 [CAS-VSR-S101: A wild sentence-level audio-visual speech dataset ](https://github.com/VIPL-Audio-Visual-Speech-Understanding/CAS-VSR-S101)
+
 [CAS-VSR-MOV20: A challenging lip-reading dataset with various visual conditions](https://github.com/VIPL-Audio-Visual-Speech-Understanding/CAS-VSR-MOV20)
